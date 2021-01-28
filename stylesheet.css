@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Progate</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playball&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-left"><u>Portfolio.</u></div>
+        <div class="header-right">
+            <ul>
+                <li>Contact us</li>
+                <li>Home</li>
+            </ul>
+        </div>
+    </div>
+    <div class="main" id="home">
+        <div class="main-top">
+            <img src:"https://cdn.pixabay.com/photo/2018/01/20/07/37/paper-3094007_1280.jpg">
+
+            <p>Hello, my name is</p>
+            <h1>POOJA KUMARI</h1>
+
+            <div class="self"><h3>I am a Web Developer</h3></div>
+            <img src="C:\Users\HP\Desktop\html_lession\IMG_20210128_104505.jpg" class="image" alt="">
+        </div>
+
+        <section class="skills-container">
+            <div id="skills">
+                <div class="box">
+                    <h2 class="h-secondary">Skills</h2>
+                    <ul>
+                        <li>C Programming</li>
+                        <li>C++</li>
+                        <li>Python</li>
+                        <li>Java</li>
+                        <li>HTML and CSS</li>
+                        <li>Javascript</li>
+                    </ul>
+                </div>
+                <div class="box">
+                    <h2 class="h-secondary">Hobbies</h2>
+                    <ul>
+                        <li>Listening movies</li>
+                        <li>Playing batminton</li>
+                        <li>Watching webseries</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- <div class="skills">
+                <h3>Skills</h3>
+                <ul class="list-skills">
+                    <li>C Programming</li>
+                    <li>C++</li>
+                    <li>Python</li>
+                    <li>Java</li>
+                    <li>HTML and CSS</li>
+                    <li>Javascript</li>
+                </ul>
+                <h3>Hobbies</h3>
+                <ul class="list-hobbies">
+                    <li>Listening movies</li>
+                    <li>Playing batminton</li>
+                    <li>Watching webseries</li>
+                </ul>
+            </div> -->
+        <div class="container">
+            <a href="http://www.linkedin.com/in/pooja-kumari-253240196"><img class="linkedin"
+                    src="F:\Qualification detail\follow-us-on-linkedin.png"></a>
+
+            <a href="https://github.com/Poojakumari123"><img class="github"
+                    src="F:\Qualification detail\github.png"></a>
+        </div>
+    </div>
+    <section id="footer">
+        <div class="footer-logo">Portfolio</div>
+        <div class="footer-list">
+            <ul>
+                <li>About</li>
+                <li>Jobs</li>
+                <li>Contact us</li>
+            </ul>
+        </div>
+    </section>
+
+</body>
+
+</html>
